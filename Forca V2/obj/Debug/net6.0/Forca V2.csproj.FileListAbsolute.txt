@@ -1,0 +1,15 @@
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Forca V2\bin\Debug\net6.0\Forca V2.exe
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Forca V2\bin\Debug\net6.0\Forca V2.deps.json
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Forca V2\bin\Debug\net6.0\Forca V2.runtimeconfig.json
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Forca V2\bin\Debug\net6.0\Forca V2.dll
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Forca V2\bin\Debug\net6.0\Forca V2.pdb
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Forca V2\obj\Debug\net6.0\Forca V2.csproj.AssemblyReference.cache
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Forca V2\obj\Debug\net6.0\Forca V2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Forca V2\obj\Debug\net6.0\Forca V2.AssemblyInfoInputs.cache
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Forca V2\obj\Debug\net6.0\Forca V2.AssemblyInfo.cs
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Forca V2\obj\Debug\net6.0\Forca V2.csproj.CoreCompileInputs.cache
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Forca V2\obj\Debug\net6.0\Forca V2.dll
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Forca V2\obj\Debug\net6.0\refint\Forca V2.dll
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Forca V2\obj\Debug\net6.0\Forca V2.pdb
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Forca V2\obj\Debug\net6.0\Forca V2.genruntimeconfig.cache
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Forca V2\obj\Debug\net6.0\ref\Forca V2.dll

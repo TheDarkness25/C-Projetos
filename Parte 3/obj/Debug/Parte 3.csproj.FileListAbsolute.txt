@@ -1,0 +1,8 @@
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Parte 3\bin\Debug\Parte 3.exe.config
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Parte 3\bin\Debug\Parte 3.exe
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Parte 3\bin\Debug\Parte 3.pdb
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Parte 3\obj\Debug\Parte 3.csproj.AssemblyReference.cache
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Parte 3\obj\Debug\Parte 3.csproj.SuggestedBindingRedirects.cache
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Parte 3\obj\Debug\Parte 3.csproj.CoreCompileInputs.cache
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Parte 3\obj\Debug\Parte 3.exe
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Parte 3\obj\Debug\Parte 3.pdb

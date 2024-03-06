@@ -1,0 +1,8 @@
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\ProvaConsole\bin\Debug\ProvaConsole.exe.config
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\ProvaConsole\bin\Debug\ProvaConsole.exe
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\ProvaConsole\bin\Debug\ProvaConsole.pdb
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\ProvaConsole\obj\Debug\ProvaConsole.csproj.AssemblyReference.cache
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\ProvaConsole\obj\Debug\ProvaConsole.csproj.SuggestedBindingRedirects.cache
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\ProvaConsole\obj\Debug\ProvaConsole.csproj.CoreCompileInputs.cache
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\ProvaConsole\obj\Debug\ProvaConsole.exe
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\ProvaConsole\obj\Debug\ProvaConsole.pdb

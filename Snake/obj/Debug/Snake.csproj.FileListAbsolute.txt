@@ -1,0 +1,11 @@
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Snake\bin\Debug\Snake.exe.config
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Snake\bin\Debug\Snake.exe
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Snake\bin\Debug\Snake.pdb
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Snake\obj\Debug\Snake.csproj.SuggestedBindingRedirects.cache
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Snake\obj\Debug\Snake.Form1.resources
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Snake\obj\Debug\Snake.exe
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Snake\obj\Debug\Snake.pdb

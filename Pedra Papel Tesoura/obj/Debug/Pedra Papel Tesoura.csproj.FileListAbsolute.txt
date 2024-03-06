@@ -1,0 +1,11 @@
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Pedra Papel Tesoura\bin\Debug\Pedra Papel Tesoura.exe.config
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Pedra Papel Tesoura\bin\Debug\Pedra Papel Tesoura.exe
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Pedra Papel Tesoura\bin\Debug\Pedra Papel Tesoura.pdb
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Pedra Papel Tesoura\obj\Debug\Pedra Papel Tesoura.csproj.AssemblyReference.cache
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Pedra Papel Tesoura\obj\Debug\Pedra Papel Tesoura.csproj.SuggestedBindingRedirects.cache
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Pedra Papel Tesoura\obj\Debug\Pedra_Papel_Tesoura.Form1.resources
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Pedra Papel Tesoura\obj\Debug\Pedra_Papel_Tesoura.Properties.Resources.resources
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Pedra Papel Tesoura\obj\Debug\Pedra Papel Tesoura.csproj.GenerateResource.cache
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Pedra Papel Tesoura\obj\Debug\Pedra Papel Tesoura.csproj.CoreCompileInputs.cache
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Pedra Papel Tesoura\obj\Debug\Pedra Papel Tesoura.exe
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Pedra Papel Tesoura\obj\Debug\Pedra Papel Tesoura.pdb

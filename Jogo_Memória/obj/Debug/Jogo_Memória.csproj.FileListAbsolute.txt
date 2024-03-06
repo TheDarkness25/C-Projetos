@@ -1,0 +1,11 @@
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Jogo_Memória\bin\Debug\Jogo_Memória.exe.config
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Jogo_Memória\bin\Debug\Jogo_Memória.exe
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Jogo_Memória\bin\Debug\Jogo_Memória.pdb
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Jogo_Memória\obj\Debug\Jogo_Memória.csproj.AssemblyReference.cache
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Jogo_Memória\obj\Debug\Jogo_Memória.csproj.SuggestedBindingRedirects.cache
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Jogo_Memória\obj\Debug\Jogo_Memória.Form1.resources
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Jogo_Memória\obj\Debug\Jogo_Memória.Properties.Resources.resources
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Jogo_Memória\obj\Debug\Jogo_Memória.csproj.GenerateResource.cache
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Jogo_Memória\obj\Debug\Jogo_Memória.csproj.CoreCompileInputs.cache
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Jogo_Memória\obj\Debug\Jogo_Memória.exe
+C:\Faculdade-Arquivos\ADS-Fatec\4 semestre\Linguagem de Programação (C#)\Códigos\Jogo_Memória\obj\Debug\Jogo_Memória.pdb
